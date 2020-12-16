@@ -26,21 +26,20 @@ element.style {
   position: relative;
   top: 17em;
 }
-@media (min-width: 500px) {
+@media (min-width: 800px) {
   body {
-    background-image: url(bizhi.db53b83f.jpeg);
+    background-image: url(/bizhi.db53b83f.jpeg);
     background-repeat: no-repeat;
     background-position: right;
     background-position-x: initial;
     background-position-y: initial;
-    background-size: 1520px;
+    background-size: 100%·;
     background-attachment: initial;
     background-origin: initial;
     background-clip: initial;
     background-color: initial;
   }
 }
-
 input {
   background: none;
 
@@ -254,4 +253,4 @@ li:hover > .close {
 }
 
 
-/*# sourceMappingURL=style.0152345e.css.map */
+/*# sourceMappingURL=/style.46be3bc2.css.map */
