@@ -28,7 +28,7 @@ element.style {
 }
 @media (min-width: 800px) {
   body {
-    background-image: url(/logo/bizhi.jpeg);
+    background-image: url(/bizhi.a298709d.jpeg);
     background-repeat: no-repeat;
     background-position: right;
     background-position-x: initial;
@@ -251,3 +251,6 @@ li:hover > .close {
   /* height: 150px; */
   margin-bottom: -40px;
 }
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
